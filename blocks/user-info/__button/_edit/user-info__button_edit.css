@@ -16,6 +16,6 @@ button.user-info__button_edit{
 @media screen and (max-width: 980px) {
     button.user-info__button_edit {
             position: static;
-            margin-left: calc(100%/2 - 30px);
+            margin-left: calc(100%/2 - 15px);
 }
 }
