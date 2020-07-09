@@ -1,4 +1,4 @@
-# 1. Yandex praktikum sprint 12 
+# 1. Yandex praktikum sprint 9 
 Andrey Korlyakov  
 
 ## 2. Актуальная версия  
