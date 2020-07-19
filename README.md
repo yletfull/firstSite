@@ -1,4 +1,4 @@
-# 1. Yandex praktikum sprint 9 
+# 1. Проект "Место"
 Andrey Korlyakov  
 
 ## 2. Актуальная версия  
